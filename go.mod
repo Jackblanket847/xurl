@@ -1,6 +1,6 @@
 module xurl
 
-go 1.21
+go 1.23.0
 
 require (
 	github.com/fatih/color v1.18.0
@@ -19,8 +19,8 @@ require (
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/stretchr/objx v0.5.2 // indirect
-	golang.org/x/net v0.22.0 // indirect
-	golang.org/x/sys v0.25.0 // indirect
+	golang.org/x/net v0.38.0 // indirect
+	golang.org/x/sys v0.31.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/protobuf v1.31.0 // indirect
 )
